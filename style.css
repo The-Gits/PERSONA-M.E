@@ -1,0 +1,10 @@
+
+body {
+    font-family: monospace;
+    background-color: lightgrey;
+}
+
+span.smile {
+    font-size: 30px;
+    font-weight: bolder;
+}
